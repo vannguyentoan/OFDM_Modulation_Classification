@@ -5,5 +5,6 @@ OFDMsym-Net is specified by two kinds of processing modules, which manipulate on
 <img src="https://github.com/vannguyentoan/OFDM_Modulation_Classification/blob/main/OFDM_signal_reconstruction.png" height="322px" width="402px" >
 
 The code and dataset in this repository are associated with the following research paper.
+
 Thien Huynh-The, Toan-Van Nguyen, Quoc-Viet Pham, Van-Sang Doan, Daniel Benevides da Costa, and Dong-Seong Kim, "Learning Deep Convolutional Network for Automatic
 Modulation Classification in OFDM Systems Under Channel Impairments," IEEE Internet of Thing Journal (Submitted).
